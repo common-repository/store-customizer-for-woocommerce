@@ -1,0 +1,108 @@
+img.ocscfw_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+
+.woo_stor_cust {
+    background: #fff;
+    width: 93%;
+    padding: 30px;
+    margin-top: 35px;
+    border: 2px solid;
+}
+.woo_stor_cust p {
+    font-size: 16px;
+}
+.woo_stor_cust p span {
+    font-weight: bold;
+}
+
+/*CSS for support rating donation multistep start*/
+.ocscfw_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.ocscfw_ratesup_notice_main {
+    display: inline-block;
+    width: 100%;
+}
+.ocscfw_rateus_notice, .ocscfw_support_notice {
+    display: inline-block;
+    width: 45%;
+    float: left;
+    color: #fff;
+    background-color: #fb5f51;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    height: 70px;
+    margin-bottom: 12px;
+}
+.ocscfw_rateus_notice h3, .ocscfw_support_notice h3 {
+    color: #fff;
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+.ocscfw_rateus_notice label, .ocscfw_support_notice label {
+    font-size: 16px;
+}
+.ocscfw_support_notice {
+    background-color: #2f3337;
+    margin-left: 2%;
+}
+.ocscfw_rateus_notice a, .ocscfw_support_notice a {
+    color: #fff;
+}
+.ocscfw_rtusnoti_left {
+    display: inline-block;
+    float: left;
+    width: 70%;
+}
+.ocscfw_rtusnoti_right {
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+.ocscfw_rtusnoti_right img {
+    width: 50px;
+    height: auto;
+}
+.ocscfw_donate_main {
+    background: #fff;
+    padding: 15px;
+    display: flex;
+    width: 94.6%;
+    border: 1px solid #e3bbac;
+    align-items: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-top: 15px;
+}
+.ocscfw_donate_main img {
+    height: 32px;
+}
+.ocscfw_donate_main > * {
+    margin: 0 15px 0 0;
+    vertical-align: middle;
+}
+.ocscfw_onate_main h3 {
+    font-size: 15px;
+}
+.ocscfw_donate_form {
+    display: flex;
+}
+.ocscfw_donate_main .button {
+    text-align: center;
+}
+img.ocscfw_rating_div {
+    width: 100px;
+    width: 105px;
+    vertical-align: middle;
+}
+span.ocscfw_combine_notice {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+/*CSS for support rating donation multistep end*/
